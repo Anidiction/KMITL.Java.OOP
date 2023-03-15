@@ -26,7 +26,7 @@ public class Shop {
 
     public Basket newCustomerArrives() {
         new Basket();
-        return ;
+        return null;
     }
 
     public LineItem generateLineItem(String pName, int q) { // add to UML
