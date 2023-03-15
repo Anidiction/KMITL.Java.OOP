@@ -1,12 +1,12 @@
 package Java.OOP.Lab2;
 
-import Java.OOP.Lab2.packA.Programmer;
+import Java.OOP.Lab2.*;
 
 public class Lab2_Inheritance {
     public static void main(String[] args) {
         q1();
-        q2();
-        q3();
+        q2_Salesperson();
+        q3_Accountant();
     }
 
     static void q1() {
